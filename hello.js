@@ -1,2 +1,2 @@
-console.log("good morning")
-console.log("hw are you")
+console.log("good afternoon")
+console.log("hw are you good")
